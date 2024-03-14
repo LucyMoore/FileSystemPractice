@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Whiskers",
+    "color": "Gray",
+    "trait": "Curious"
+  },
+  {
+    "name": "Mittens",
+    "color": "Black",
+    "trait": "Playful"
+  },
+  {
+    "name": "Fluffy",
+    "color": "White",
+    "trait": "Affectionate"
+  },
+  {
+    "name": "Tiger",
+    "color": "Orange",
+    "trait": "Adventurous"
+  }
+]
