@@ -1,0 +1,24 @@
+{
+  "name": "fsprtactice3",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "practicing filesystems",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucyMoore/FileSystemPractice.git"
+  },
+  "keywords": [
+    "fs"
+  ],
+  "author": "lucy moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucyMoore/FileSystemPractice/issues"
+  },
+  "homepage": "https://github.com/LucyMoore/FileSystemPractice#readme"
+}
