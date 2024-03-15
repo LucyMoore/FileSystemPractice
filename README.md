@@ -7,7 +7,10 @@ We are going to read a json file of cat data into our code and have it print a c
 We are doing it in the simplest form first. No try catch no async. just file reading and printing to the console
 we will be using the filesystem built in method: **readFile**
 
-
+When you clone/fork the repo 
+run ```npm i``` in your terminal  
+to run your file type ```node index.js``` and you will see "where are all the cats?"
+then you will know its running 
 
 The file we are reading is ```data.json``` and we are working in the ```index.js``` file 
 
